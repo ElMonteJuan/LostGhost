@@ -1,0 +1,29 @@
+# Archivos de Unity a ignorar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Configuración del usuario (no necesaria para otros)
+UserSettings/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Configuración del editor VS Code
+.vscode/
